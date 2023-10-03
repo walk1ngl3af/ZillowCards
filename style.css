@@ -1,0 +1,9 @@
+.card {
+    width: 350px;
+    min-height: 230px;
+    border: 5px solid grey;
+}
+.picture {
+    width: 350px;
+    height: 150px;
+}
