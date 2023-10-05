@@ -5,7 +5,9 @@
 .card {
     width: 350px;
     min-height: 230px;
-    border: 5px solid gray;
+    border-bottom: 4px solid #006AFF;
+    box-shadow 0 4px 8px 0 rgb(0,0,0,0.2);
+    margin: 4px;
 }
 .picture {
     width: 350px;
